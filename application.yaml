@@ -1,0 +1,7 @@
+meeting-service:
+  min: 100
+  max: 900
+
+constant-service:
+  min: 100
+  max: 800
