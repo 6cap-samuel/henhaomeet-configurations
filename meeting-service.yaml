@@ -1,0 +1,3 @@
+meeting-service:
+  min: 100
+  max: 900
